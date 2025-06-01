@@ -1,0 +1,2 @@
+# Real-Time-Stock-Market-Price-Checking-App-Built-Using-Django-Celery-Django-Channels-WebSockets.
+This Real-Time Stock Market Price Checking App Built Using Django, where user can select the one or multiple stocks from the list and can check their price in Real-time which updates frequently. It Store the User Session ID in the database on temporary basis. Session ids are further used to send data to user.
