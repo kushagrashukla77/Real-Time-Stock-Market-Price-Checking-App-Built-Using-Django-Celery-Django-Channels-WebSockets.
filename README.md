@@ -12,6 +12,8 @@ A web application that displays real-time stock price updates using **Django**, 
 - 🎯 Users can select multiple stocks to monitor
 - 📱 **Responsive UI** with interactive elements and dynamic updates
 - 🛠️ Scalable architecture using decoupled components (backend tasks + live frontend)
+
+
 ![pic_1](https://github.com/user-attachments/assets/ea3cb702-1d80-4d98-ba57-56baf17055f7)
 ![pic_2](https://github.com/user-attachments/assets/31af63ee-3b3d-47a3-a38f-90e9b22838bc)
 ![pic_3](https://github.com/user-attachments/assets/73214434-3b37-4f46-b19c-dc8427debcb9)
